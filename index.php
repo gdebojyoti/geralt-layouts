@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Geralt Card Layout
- * Plugin URI: http://geralt.debojyotighosh.com
- * Description: Create card layouts supported by the Geralt WordPress theme
- * Version: 0.0.1-a
+ * Plugin Name: Geralt Layouts
+ * Plugin URI: https://github.com/gdebojyoti/geralt-layouts
+ * Description: Layouts supported by the Geralt WordPress theme
+ * Version: 0.2.0
  * Author: Debojyoti Ghosh
  * Author URI: https://www.debojyotighosh.com
  */
