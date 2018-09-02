@@ -2,7 +2,7 @@
 
 function geralt_card_layout_general ($id = 0, $label = 'cat') { echo ''?>
 
-<div class="row section">
+<div class="row c-section">
 	<div class="col-md-12">
 		<h2 class="u-to"><?php echo esc_attr($id ? get_cat_name($id) : "Latest posts") ?></h2>
 	</div>

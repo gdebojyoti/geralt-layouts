@@ -2,7 +2,7 @@
 
 function geralt_card_layout_featured ($id = 0, $label = 'cat') { echo ''?>
 
-<div class="row section">
+<div class="row c-section">
 	<div class="col-md-8">
 		
 		<?php
